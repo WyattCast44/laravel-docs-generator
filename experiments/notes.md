@@ -1,0 +1,4 @@
+- https://wkhtmltopdf.org/usage/wkhtmltopdf.txt
+- https://pypi.org/project/pdfkit/
+- https://www.crummy.com/software/BeautifulSoup/bs4/doc/#find-all
+- https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creating-pdf
